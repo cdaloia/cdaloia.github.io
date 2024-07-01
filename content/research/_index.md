@@ -11,7 +11,7 @@ sections:
       title: |
         Dispersal
       image:
-        filename: diving.jpg
+        filename: diving2.jpg
         position: center
       text: |
         <br>
@@ -22,7 +22,7 @@ sections:
       title: |
         Kin structure
       image:
-        filename: randalli.jpg
+        filename: randalli2.jpg
       text: |
         <br>
         The distribution of kin within populations impacts processes such as kin competition, inbreeding, and kin selection. To date, evidence for within-population kin aggregations has been mixed for species with a dispersive larval phase. We are combining genomic and mathematical approaches to understand how kin groups could form within marine populations. Our work has explored how stochastic demographic processes, collective larval movement, and limited dispersal can drive spatial patterns of kinship. We are also interested in empirically evaluating whether group-living marine organisms co-exist with kin.
@@ -32,7 +32,7 @@ sections:
       title: |
         Sponge-fish ecological interactions
       image:
-        filename: horsti.jpg
+        filename: horsti2.jpg
       text: |
         <br>
         Many cryptobenthic fishes occupy invertebrate hosts, including sponges. We are especially interested in exploring the nature of fish-sponge symbioses. From the fish’s perspective, we are interested in the fitness trade-offs of occupying different hosts and understanding how fish cope with resource-rich but “risky” hosts. We are also interested in exploring how other sponge infauna influence these symbioses. These study systems are also well-suited for ecological studies of (1) fish group dynamics and stability and (2) fine-scale, post-settlement movement across the seascape.
