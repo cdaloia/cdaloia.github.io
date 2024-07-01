@@ -11,9 +11,9 @@ banner:
 ---
 **Articles**
 
-27\. Naaykens T, Fahim H, D'Aloia CC (revisions resubmitted) Sponge species identity and morphology shape occupancy patterns of a Caribbean sponge-dwelling goby (*Elacatinus horsti*).
+27\. Fahim H, Naaykens T, D'Aloia CC (revisions resubmitted) Habitat quality affects the abundance of a coral-dwelling fish across spatial scales.
 
-26\. Fahim H, Naaykens T, D'Aloia CC (revisions resubmitted) Habitat quality affects the abundance of a coral-dwelling fish across spatial scales.
+26\. Naaykens T, Fahim H, D'Aloia CC (in press) Sponge species identity and morphology shape occupancy patterns of a Caribbean sponge-dwelling goby (*Elacatinus horsti*). *Environmental Biology of Fishes*
 
 25\. Andrello M, Manel S, Vilcot M, Xuereb A, D'Aloia CC (2023) Benefits of genetic data for spatial conservation planning in coastal habitats. *Cambridge Prisms: Coastal Futures* 1: e28.
 

@@ -24,10 +24,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: ADD TAYLOR INFO
 
-interests:
-  - FILL IN
-  - FILL IN
-  - FILL IN
+#interests:
+#  - FILL IN
+#  - FILL IN
+#  - FILL IN
 
 education:
   courses:
