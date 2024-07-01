@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Taylor Naaykens‎  
+title: Taylor Naaykens‎ I
 
 # Full name (for SEO)
 first_name: Tay
