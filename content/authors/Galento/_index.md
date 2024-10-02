@@ -73,4 +73,4 @@ user_groups:
   - Current Researchers
 ---
 
-Coming soon! Galento is the recipient of a Connaught International Scholarship.
+Galento's PhD research focuses on the population structure of sea cucumbers and other harvested species in Belize. He is joining the lab from the University of Belize. Galento completed his undergraduate degree at the University of Belize, and later worked as the Marine Scientist at the University of Belize Environmental Research institute (UB ERI). His undergraduate thesis was focused on the ecological behavior of juvenile Permit fish. He gained field research experience working on research projects studying reef ecology and mangrove systems. Outside of research his favorite leisure activities include baseball, cooking, and martial arts. Galento is the recipient of a Connaught International Scholarship.

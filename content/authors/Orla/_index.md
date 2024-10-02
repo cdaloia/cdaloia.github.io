@@ -27,11 +27,12 @@ organizations:
 interests:
   - Food
   - Belly rubs
-  - Digging
+  - Digging holes
+  - Chasing small mammals
 
 education:
   courses:
-    - course: Obedience Level II
+    - course: Obedience Level II (near failing marks)
       institution: Canine Academy
       year: 2024
     - course: Obedience Level I

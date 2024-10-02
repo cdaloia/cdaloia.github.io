@@ -36,7 +36,7 @@ education:
   #    year: 2012
     - course: MSc in Ecology and Evolutionary Biology
       institution: University of Toronto
-      year: in progress
+      year: 2024
     - course: BSc Hons. in Marine Biology
       institution: University of New Brunswick (Saint John)
       year: 2022
@@ -73,4 +73,4 @@ user_groups:
   - Current Researchers
 ---
 
-Jon is completing his MSc in the lab and is our resident whelk expert. His research interests revolve around the ecology of commercially fished marine invertebrates. In his undergraduate degree at UNBSJ, he completed his honors thesis with Rémy Rochette on validating American lobster embryonic development models. For his MSc, he is working in partnership with DFO on a project involving the use of next generation sequencing to quantify stock structure of waved whelk in the 3Ps fishery subdivision. Jon's work has been supported by OGS and NSERC CGS-M scholarships.
+Jon recently completed his MSc in the lab and is our resident whelk expert. His research interests revolve around the ecology of commercially fished marine invertebrates. In his undergraduate degree at UNBSJ, he completed his honors thesis with Rémy Rochette on validating American lobster embryonic development models. For his MSc, he worked in partnership with DFO on a project involving the use of next generation sequencing to quantify stock structure of waved whelk in the 3Ps fishery subdivision. Jon's work has been supported by OGS and NSERC CGS-M scholarships. Jon is currently working in the lab as a tech.

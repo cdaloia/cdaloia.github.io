@@ -1,45 +1,46 @@
 ---
 # Display name
-title: Bushra
+title: Pistache
 
 # Full name (for SEO)
-first_name: Fabiha
-last_name: Bushra
+first_name: Pistache
+last_name: Naaykens
 
 # Username (this should match the folder name)
 authors:
-  - Bushra
+  - Pistache
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BIO481 2024-2025
+role: Nap Enforcer
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto Mississauga
+  - name: Naaykens House
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: ADD TAYLOR INFO
 
-#interests:
-#  - FILL IN
-#  - FILL IN
-#  - FILL IN
+interests:
+  - Napping
+  - Cardboard boxes
+  - Plastic bags
+  - More napping
 
 education:
   courses:
   #  - course: PhD in Artificial Intelligence
    #   institution: Stanford University
   #    year: 2012
-    - course: BSc - Bio Specialist (+ Env Sci Major and Env Management Minor)
-      institution: University of Toronto Mississauga
-      year: in progress
+    - course: MSc in Biomedical Engineering
+      institution: Homeschooled
+      year: 2014
   #  - course: BSc Hons. in Biology
-  #    institution: University of Manitoba
-  #    year: 2016
+   #   institution: University of Manitoba
+    #  year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,10 +66,11 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+#email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Lab Pets
 ---
+Pistache Mariachi Teflon ('Pistache') is a very vocal Russian blue mix. He is a cuddly boy who excels at napping, soliciting treats, and hunting toys, old socks and the elusive red dot. 

@@ -9,6 +9,14 @@ banner:
   caption: ''
   image: ''
 ---
+*Fall 2024*
+
+- Welcome to Galento (PhD), Krystyn (MSc), and Ana (ROP)!
+- Congrats Galento on being awarded a Connaught International Scholarship!
+- Congrats Jon on an excellent MSc defense!
+- Hana's first paper is published in Ecology and Evolution!
+- Taylor's first PhD paper is published in Environmental Biology of Fishes!
+
 *Spring/Summer 2024*
 
 - Taylor passed her appraisal exam and is officially a PhD candidate!
@@ -18,7 +26,7 @@ banner:
 
 *Summer/Fall 2023*
 
-- Big congrats to Hana for a great MSc defence!  
+- Big congrats to Hana for a great MSc defense!  
 - Welcome to undergraduate researcher Celia!  
 - Taylor was awarded a Queen Elizabeth II Graduate Scholarship in Science and Technology for 2023-4. Yay, Taylor!
 - Cass won a Connaught New Researcher Award.

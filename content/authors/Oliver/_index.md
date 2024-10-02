@@ -4,7 +4,7 @@ title: Oliver Du
 
 # Full name (for SEO)
 first_name: Oliver
-last_name: De
+last_name: Du
 
 # Username (this should match the folder name)
 authors:
@@ -35,7 +35,7 @@ education:
    #   institution: Stanford University
   #    year: 2012
     - course: BSc - Ecology and Evolution Specialist
-      institution: University of Toronto Mississauga
+      institution: University of Toronto
       year: in progress
   #  - course: BSc Hons. in Biology
   #    institution: University of Manitoba
@@ -70,5 +70,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni - Undergrads
 ---

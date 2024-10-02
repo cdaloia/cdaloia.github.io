@@ -1,45 +1,45 @@
 ---
 # Display name
-title: Pistachio
+title: Ana Carolina Borbolla García
 
 # Full name (for SEO)
-first_name: Pistachio
-last_name: Naaykens
+first_name: Ana Carolina 
+last_name: Borbolla García
 
 # Username (this should match the folder name)
 authors:
-  - Pistachio
+  - Ana
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: TBD
+role: ROP 2024
 
 # Organizations/Affiliations
 organizations:
-  - name: Naaykens House
+  - name: University of Toronto Mississauga
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: ADD TAYLOR INFO
 
 #interests:
-#  - TBD
-#  - TBD
-#  - TBD
+#  - FILL IN
+#  - FILL IN
+#  - FILL IN
 
 education:
   courses:
   #  - course: PhD in Artificial Intelligence
    #   institution: Stanford University
   #    year: 2012
-    - course: Obedience Level I
-      institution: Canine Academy
-      year: 2024
+    - course: BSc - Molecular Biology Specialist
+      institution: University of Toronto Mississauga
+      year: in progress
   #  - course: BSc Hons. in Biology
-   #   institution: University of Manitoba
-    #  year: 2016
+  #    institution: University of Manitoba
+  #    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,11 +65,10 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ''
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab Pets
+  - Undergraduate Students
 ---
-Coming soon!

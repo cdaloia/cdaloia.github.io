@@ -24,8 +24,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: ADD TAYLOR INFO
 
-interests:
-  - Coming Soon
+#interests:
+#  - Coming Soon
 
 education:
   courses:
@@ -44,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
- # - icon: envelope
- #   icon_pack: fas
- #   link: 'mailto:'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:krystyn.forbes@mail.utoronto.ca'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://x.com/Tnaaykens
@@ -70,4 +70,4 @@ email: ''
 user_groups:
   - Current Researchers
 ---
-Coming soon! Krystyn is co-supervised by [Kara Layton](https://www.laytonlab.com/).
+Krystyn is completing his MSc on the population structure and evolutionary history in the European sea lemon (Doris pseudoargus) across both its native and invasive range. His previous research focused on mitochondrial genomes and metagenomes in Canadian mammals (e.g. lynx, marmot). Beyond research, Krystyn enjoys birding, climbing, and playing the piano. Krystyn is co-supervised by [Kara Layton](https://www.laytonlab.com/).
