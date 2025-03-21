@@ -46,9 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:jon.kubelka@mail.utoronto.ca'
+ # - icon: envelope
+ #   icon_pack: fas
+ #   link: 'mailto:jon.kubelka@mail.utoronto.ca'
   #- icon: twitter
   #  icon_pack: fab
    # link: https://twitter.com/GeorgeCushen
@@ -70,7 +70,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current Researchers
+  - Alumni - Grads
 ---
 
-Jon recently completed his MSc in the lab and is our resident whelk expert. His research interests revolve around the ecology of commercially fished marine invertebrates. In his undergraduate degree at UNBSJ, he completed his honors thesis with Rémy Rochette on validating American lobster embryonic development models. For his MSc, he worked in partnership with DFO on a project involving the use of next generation sequencing to quantify stock structure of waved whelk in the 3Ps fishery subdivision. Jon's work has been supported by OGS and NSERC CGS-M scholarships. Jon is currently working in the lab as a tech.
+**<font size="5.5">Thesis</font>:** Fine-scale population structure and genetic relatedness of the whelk *Buccinum undatum* in NAFO Subdivision 3Ps"
+
+Jon's research was supported by an NSERC CGS-M scholarship and an Ontario Graduate Scholarship.

@@ -9,6 +9,10 @@ banner:
   caption: ''
   image: ''
 ---
+
+*Spring 2025*
+- Congrats to Sarah and Jon for publishing their MSc papers in PLoS ONE and Canadian Journal of Fisheries & Aquatic Sciences, respectively!
+
 *Fall 2024*
 
 - Welcome to Galento (PhD), Krystyn (MSc), and Ana (ROP)!

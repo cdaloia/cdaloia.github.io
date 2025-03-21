@@ -10,7 +10,7 @@ banner:
   image: ''
 ---
 **Current graduate opportunities**  
-We are recruiting 1 PhD student in the Fall 2024 cycle. If interested, please send the following information to Cassidy, preferably as a single PDF: (1) brief statement of your research interests and experiences and why you are interested in working in our lab; (2) transcripts - unofficial ok; (3) CV. Preference will be given to candidates with experience and interests in molecular ecology, but we welcome all inquiries.
+Please reach out late summer / early fall 2025 if you are interested in applying in the next recruitment cycle. 
 
 **Information about the lab**  
 Graduate students join our lab through the tri-campus Department of Ecology and Evolutionary Biology at the University of Toronto. Please read over the [admissions process and program requirements](https://eeb.utoronto.ca/education/graduate/). Applications are due late Fall and NSERC applications are due earlier, so please get in touch early if you are interested in applying. Due to funding constraints, MSc opportunities are only available to domestic students. PhD opportunities are open to both domestic and international students. A few things to note:

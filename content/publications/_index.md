@@ -11,13 +11,17 @@ banner:
 ---
 **Articles**
 
+29\. Kubelka J, Sturch WH, Baker K, D'Aloia CC (in press) Assessing size at sexual maturity and fine-scale population structure in a direct developing whelk (*Buccinum undatum*) in Southern Newfoundland, Canada. *Canadian Journal of Fisheries & Aquatic Sciences*
+
+28\. Babaei S, Varkey DA, Adamack AT, LeBlanc NM, Puncher GN, Parent GJ, Wang Y, Rowe S, D'Aloia CC*, Pavey SA* (2025) Genome-wide SNPs reveal novel genetic relationships among Atlantic cod (*Gadus morhua*) from the south coast of Newfoundland, Canada (subdivision 3Ps), Northern cod stock complex, and Gulf of St Lawrence. *PLoS ONE* 20: e0317768. *Co-senior authors 
+
 27\. Fahim H, Naaykens T, D'Aloia CC (2024) Habitat quality effects on the abundance of a coral-dwelling fish across spatial scales. *Ecology and Evolution* 14: e70322.
 
 26\. Naaykens T, Fahim H, D'Aloia CC (2024) Sponge species identity and morphology shape occupancy patterns of a Caribbean sponge-dwelling goby (*Elacatinus horsti*). *Environmental Biology of Fishes* 107: 799–812.
 
 25\. Andrello M, Manel S, Vilcot M, Xuereb A, D'Aloia CC (2023) Benefits of genetic data for spatial conservation planning in coastal habitats. *Cambridge Prisms: Coastal Futures* 1: e28.
 
-24\. Scavo Lord, K, Lesneski KC, Buston PM, Davies SW, D'Aloia CC, Finnerty JR (2023) Rampant asexual reproduction and limited dispersal in a mangrove population of the coral *Porites divaricata*. *Proceedings of the Royal Society Series* B 290: 20231070.
+24\. Scavo Lord, K, Lesneski KC, Buston PM, Davies SW, D'Aloia CC, Finnerty JR (2023) Rampant asexual reproduction and limited dispersal in a mangrove population of the coral *Porites divaricata*. *Proceedings of the Royal Society Series B* 290: 20231070.
 
 23\. Harvey E, Marleau J, Gounand, I, Leroux S, Firkowski CR, Altermatt F, Guillaume Blanchet FG, Cazelles C, Chu C, D'Aloia CC, Gravel D, Guichard F, McCann K, Ruppert JLW, Ward C, Fortin M-J (2023) A general meta‐ecosystem model to predict ecosystem functions at landscape extents. *Ecography* 2023: e06790.
 
@@ -53,7 +57,7 @@ banner:
 
 7\. Schmiege PFP, D'Aloia CC, Buston PM (2017) Anemonefish personalities influence interspecific interactions with host sea anemones. *Marine Biology* 164: 24.
 
-6\. Selkoe KA*, D'Aloia CC*, Crandall ED, Iacchei M, Liggins L, Puritz JB, von der Heyden S, Toonen RJ (2016) A decade of seascape genetics: contributions to basic and applied marine connectivity. Marine Ecology Progress Series 554: 1–19. (Feature Article) *Co-first authorship
+6\. Selkoe KA*, D'Aloia CC*, Crandall ED, Iacchei M, Liggins L, Puritz JB, von der Heyden S, Toonen RJ (2016) A decade of seascape genetics: contributions to basic and applied marine connectivity. *Marine Ecology Progress Series* 554: 1–19. (Feature Article) *Co-first authorship
 
 5\. D'Aloia CC, Bogdanowicz SM, Francis RK, Majoris JE, Harrison RG, Buston PM (2015) Patterns, causes, and consequences of marine larval dispersal. *Proceedings of the National Academy of Sciences, USA* 112: 13940–13945.
 
@@ -70,6 +74,8 @@ banner:
 
 1\. Xuereb A, D'Aloia CC, Daigle RM, Andrello M, Dalongeville A, Manel S, Mouillot D, Guichard F, Côté IM, Curtis JMR, Bernatchez L, Fortin M-J (2019) Marine conservation and marine protected areas. In: *Population Genomics: Marine Organisms* (ed. MF Oleksiak, O Rajora, pp. 423-446). Springer, Cham.
 
-**Commentaries**
+**Commentaries & Perspectives**
+
+2\. Andrello M, Nielsen ES, D'Aloia CC (2025) Introduction to the special issue: leveraging genetics in spatial conservation planning. *Biological Conservation* 302: 110927.
 
 1\. Buston PM, D'Aloia CC (2013) Marine Ecology: Reaping the benefits of local dispersal. *Current Biology* 23: R351–R353.
