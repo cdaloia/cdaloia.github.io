@@ -10,8 +10,12 @@ banner:
   image: ''
 ---
 
-*Spring 2025*
-- Congrats to Sarah and Jon for publishing their MSc papers in PLoS ONE and Canadian Journal of Fisheries & Aquatic Sciences, respectively!
+*Spring/Summer 2025*
+
+- Taylor, Galento, and Cass are teaming up for a two month field season in Curaçao.
+- Welcome back to Basma (NSERC USRA) and Bushra (ROP / Work Study) for more summer research fun!
+- Congrats to Bushra for doing a wonderful BIO481 project and to Ana for a fantastic year-long ROP!
+- It's our 3Ps era. Congrats to Sarah and Jon for publishing their MSc papers in PLoS ONE and Canadian Journal of Fisheries & Aquatic Sciences, respectively, on pop gen in NAFO 3Ps!
 
 *Fall 2024*
 

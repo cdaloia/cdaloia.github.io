@@ -74,4 +74,6 @@ user_groups:
 ---
 **<font size="5.5">Thesis</font>:** "Effects of habitat quality on the abundance of a coral microhabitat specialist fish at multiple spatial scales"
 
-Hana's research was supported by an NSERC CGS-M scholarship.
+**<font size="5.5">Currently</font>:** PhD Student in EEB 
+
+Hana's MSc research was supported by an NSERC CGS-M scholarship.

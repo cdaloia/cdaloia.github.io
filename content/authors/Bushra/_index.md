@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BIO481 2024-2025
+role: ROP / Work Study 2025
 
 # Organizations/Affiliations
 organizations:
@@ -72,3 +72,5 @@ email: ''
 user_groups:
   - Undergraduate Students
 ---
+
+Bushra previously held a NSERC USRA in our lab, and also completed a year long BIO481 research project. She is leading our gastropod colour work.
