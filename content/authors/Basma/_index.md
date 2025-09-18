@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: NSERC USRA
+role: BIO481 2025-6
 
 # Organizations/Affiliations
 organizations:

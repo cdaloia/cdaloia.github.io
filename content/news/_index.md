@@ -10,6 +10,10 @@ banner:
   image: ''
 ---
 
+*Fall 2025*
+
+- Congrats Krystyn on a successful PhD transfer! We're so happy you are sticking around!
+
 *Spring/Summer 2025*
 
 - Taylor, Galento, and Cass are teaming up for a two month field season in Curaçao.

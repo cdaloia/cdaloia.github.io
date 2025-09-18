@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Student (co-supervised)
+role: PhD Student (co-supervised)
 
 # Organizations/Affiliations
 organizations:
@@ -70,4 +70,4 @@ email: ''
 user_groups:
   - Current Researchers
 ---
-Krystyn is completing his MSc on the population structure and evolutionary history in the European sea lemon (Doris pseudoargus) across both its native and invasive range. His previous research focused on mitochondrial genomes and metagenomes in Canadian mammals (e.g. lynx, marmot). Beyond research, Krystyn enjoys birding, climbing, and playing the piano. Krystyn is co-supervised by [Kara Layton](https://www.laytonlab.com/).
+Krystyn is a PhD student exploring the population structure and evolutionary history in the European sea lemon (Doris pseudoargus) across both its native and invasive range. His previous research focused on mitochondrial genomes and metagenomes in Canadian mammals (e.g. lynx, marmot). Beyond research, Krystyn enjoys birding, climbing, and playing the piano. Krystyn is co-supervised by [Kara Layton](https://www.laytonlab.com/).
