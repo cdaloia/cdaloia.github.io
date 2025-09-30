@@ -13,6 +13,7 @@ banner:
 *Fall 2025*
 
 - Congrats Krystyn on a successful PhD transfer! We're so happy you are sticking around!
+- Basma begins her BIO481 year-long project exploring fish swimming in different sponges.
 
 *Spring/Summer 2025*
 
