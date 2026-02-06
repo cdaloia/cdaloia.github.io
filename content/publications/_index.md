@@ -11,7 +11,9 @@ banner:
 ---
 **Articles**
 
-29\. Kubelka J, Sturch WH, Baker K, D'Aloia CC (2025) Assessing size at sexual maturity and fine-scale population structure in a direct developing whelk (*Buccinum undatum*) in Southern Newfoundland, Canada. *Canadian Journal of Fisheries & Aquatic Sciences* 82: 1-12.
+30\. D'Aloia CC*, Bourret A*, Baker KD, Desrosiers B, Kubelka JA, Nozeres C, Sturch WH, Parent GJ, Gianasi BL(2026) Limited dispersal drives strong genetic structure in the commercially harvested gastropod *Buccinum undatum* in the Western North Atlantic. *Evolutionary Applications* 19: e70207. *Co-first authorship
+
+29\. Kubelka J, Sturch WH, Baker KD, D'Aloia CC (2025) Assessing size at sexual maturity and fine-scale population structure in a direct developing whelk (*Buccinum undatum*) in Southern Newfoundland, Canada. *Canadian Journal of Fisheries & Aquatic Sciences* 82: 1-12.
 
 28\. Babaei S, Varkey DA, Adamack AT, LeBlanc NM, Puncher GN, Parent GJ, Wang Y, Rowe S, D'Aloia CC*, Pavey SA* (2025) Genome-wide SNPs reveal novel genetic relationships among Atlantic cod (*Gadus morhua*) from the south coast of Newfoundland, Canada (subdivision 3Ps), Northern cod stock complex, and Gulf of St Lawrence. *PLoS ONE* 20: e0317768. *Co-senior authors 
 
