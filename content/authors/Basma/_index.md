@@ -36,7 +36,7 @@ education:
   #    year: 2012
     - course: BSc in Biology and Environmental Sciences 
       institution: University of Toronto Mississauga
-      year: in progress
+      year: 2026
   #  - course: BSc Hons. in Biology
   #    institution: University of Manitoba bh
   #    year: 2016
@@ -70,5 +70,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni - Undergrads
 ---

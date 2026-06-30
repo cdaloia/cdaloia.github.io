@@ -11,7 +11,9 @@ banner:
 ---
 **Primary Research Articles**
 
-30\. D'Aloia CC*, Bourret A*, Baker KD, Desrosiers B, Kubelka JA, Nozeres C, Sturch WH, Parent GJ, Gianasi BL(2026) Limited dispersal drives strong genetic structure in the commercially harvested gastropod *Buccinum undatum* in the Western North Atlantic. *Evolutionary Applications* 19: e70207. *Co-first authorship
+31\. Bushra F, Tiamzon Mj, Francis N, Patungan R, D'Aloia CC (in press) Shell morphological variation in the dogwhelk (*Nucella lapillus*) along the Bay of Fundy, New Brunswick, Canada. *Journal of Molluscan Studies*
+
+30\. D'Aloia CC*, Bourret A*, Baker KD, Desrosiers B, Kubelka JA, Nozeres C, Sturch WH, Parent GJ, Gianasi BL (2026) Limited dispersal drives strong genetic structure in the commercially harvested gastropod *Buccinum undatum* in the Western North Atlantic. *Evolutionary Applications* 19: e70207. *Co-first authorship
 
 29\. Kubelka J, Sturch WH, Baker KD, D'Aloia CC (2025) Assessing size at sexual maturity and fine-scale population structure in a direct developing whelk (*Buccinum undatum*) in Southern Newfoundland, Canada. *Canadian Journal of Fisheries & Aquatic Sciences* 82: 1-12.
 

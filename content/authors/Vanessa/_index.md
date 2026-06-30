@@ -1,55 +1,57 @@
 ---
 # Display name
-title: Krystyn Forbes
+title: Vanessa Lu
 
 # Full name (for SEO)
-first_name: Krystyn
-last_name: Forbes
+first_name: Vanessa
+last_name: Lu
 
 # Username (this should match the folder name)
 authors:
-  - Krystyn
+  - Vanessa
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student (co-supervised)
+role: ROP
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Toronto Mississauga
+  - name: University of Toronto 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio: ADD TAYLOR INFO
 
 #interests:
-#  - Coming Soon
+#  - FILL IN
+#  - FILL IN
+#  - FILL IN
 
 education:
   courses:
   #  - course: PhD in Artificial Intelligence
    #   institution: Stanford University
   #    year: 2012
-   # - course: MSc in Biology
-   #   institution: University of New Brunswick
-    #  year: 2022
-    - course: BSc Hons. in Biology
-      institution: Vancouver Island University
-      year: 2023
+    - course: BSc in Biodiversity and Conservation (Major), Environmental Biology (Major), Anthropology (Minor)
+      institution: University of Toronto
+      year: 2027
+  #  - course: BSc Hons. in Biology
+  #    institution: University of Manitoba bh
+  #    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:krystyn.forbes@mail.utoronto.ca'
- # - icon: twitter
- #   icon_pack: fab
- #   link: https://x.com/Tnaaykens
+#social:
+ # - icon: envelope
+  #  icon_pack: fas
+   # link: 'mailto:taylor.naaykens@utoronto.ca'
+  #- icon: twitter
+   # icon_pack: fab
+    #link: https://x.com/Tnaaykens
   #- icon: google-scholar
    # icon_pack: ai
     #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,4 +72,3 @@ email: ''
 user_groups:
   - Current Researchers
 ---
-Krystyn is a PhD student exploring the past, present, and future of the European sea lemon invasion in the northwest Atlantic. Krystyn is originally from Vancouver Island where he completed an HBSc at Vancouver Island University. His previous research focused on mitochondrial genomes and metagenomes in Canadian mammals (e.g. lynx, marmot). Beyond research, Krystyn enjoys birding, climbing, and playing the piano.  Krystyn is co-supervised by [Kara Layton](https://www.laytonlab.com/).

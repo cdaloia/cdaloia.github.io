@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ROP / Work Study 2025
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ education:
   #    year: 2012
     - course: BSc - Bio Specialist (+ Env Sci Major and Env Management Minor)
       institution: University of Toronto Mississauga
-      year: in progress
+      year: 2026
   #  - course: BSc Hons. in Biology
   #    institution: University of Manitoba
   #    year: 2016
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Current Researchers
 ---
 
-Bushra previously held a NSERC USRA in our lab, and also completed a year long BIO481 research project. She is leading our gastropod colour work.
+Coming soon! Bushra previously held an NSERC USRA in our lab, and also completed a year long BIO481 research project. Her MSc work is supported by an NSERC CGS-M scholarship.

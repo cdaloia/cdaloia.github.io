@@ -10,6 +10,13 @@ banner:
   image: ''
 ---
 
+*Spring/Summer 2026*
+
+- Welcome to Vanessa (summer ROP)!
+- Congrats to Basma for finishing an AMAZING BIO481 project and winning Best Presentation award at the symposium!
+- Congrats to Bushra for publishing her first, first-author manuscript in Journal of Molluscan Studies based on her undergraduate honours project!
+- Huge congrats to our incoming graduate students who both won major scholarships. Mai - Canada Impact+ Doctoral Award and Connaught International Scholarship and Bushra - NSERC CGS-M!!!
+
 *Fall 2025*
 
 - Congrats Krystyn on a successful PhD transfer! We're so happy you are sticking around!
