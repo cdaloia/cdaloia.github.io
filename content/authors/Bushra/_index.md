@@ -73,4 +73,4 @@ user_groups:
   - Current Researchers
 ---
 
-Coming soon! Bushra previously held an NSERC USRA in our lab, and also completed a year long BIO481 research project. Her MSc work is supported by an NSERC CGS-M scholarship.
+Coming soon! Bushra previously held an NSERC USRA in our lab and completed a year long BIO481 research project. Her MSc work is supported by an NSERC CGS-M scholarship.
