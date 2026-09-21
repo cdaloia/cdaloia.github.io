@@ -10,10 +10,10 @@ banner:
   image: ''
 ---
 **Current graduate opportunities**  
-We are not currently recruiting. Please check back in fall 2026. 
+Our lab is currently full and we are not accepting applications for MSc or PhD positions in the 2026-2027 cycle.
 
 **Information about the lab**  
-Graduate students join our lab through the tri-campus Department of Ecology and Evolutionary Biology at the University of Toronto. Please read over the [admissions process and program requirements](https://eeb.utoronto.ca/education/graduate/). Applications are due late Fall and NSERC applications are due earlier, so please get in touch early if you are interested in applying. Due to funding constraints, MSc opportunities are only available to domestic students. PhD opportunities are open to both domestic and international students. A few things to note:
+Graduate students join our lab through the tri-campus Department of Ecology and Evolutionary Biology at the University of Toronto. Please read over the [admissions process and program requirements](https://eeb.utoronto.ca/education/graduate/). Applications are due late Fall and NSERC applications are due earlier, so please get in touch early if you are interested in applying. Due to funding constraints, MSc opportunities are only available to domestic students. PhD opportunities are open to both domestic and international students, unless otherwise noted. A few things to note:
 - Here are some [good tips](https://doi.org/10.1002/bes2.1917) on preparing for and applying to graduate school. 
 - We are committed to promoting equity and diversity in EEB and marine science. Our research and lab culture are enriched by diverse perspectives and experiences. We are sensitive to inequities regarding early access to research opportunities. *Please know we are most interested in hearing about the scientific questions that excite you*.
 - Diving-based research is generally only possible for PhD students.
