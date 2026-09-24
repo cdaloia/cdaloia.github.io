@@ -10,7 +10,7 @@ banner:
   image: ''
 ---
 **Current graduate opportunities**  
-Our lab is currently full and we are not accepting applications for MSc or PhD positions in the 2026-2027 cycle.
+Our lab is currently full and we are not accepting applications for MSc or PhD positions.
 
 **Information about the lab**  
 Graduate students join our lab through the tri-campus Department of Ecology and Evolutionary Biology at the University of Toronto. Please read over the [admissions process and program requirements](https://eeb.utoronto.ca/education/graduate/). Applications are due late Fall and NSERC applications are due earlier, so please get in touch early if you are interested in applying. Due to funding constraints, MSc opportunities are only available to domestic students. PhD opportunities are open to both domestic and international students, unless otherwise noted. A few things to note:

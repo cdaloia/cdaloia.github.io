@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ROP Student
+role: ROP 2024
 
 # Organizations/Affiliations
 organizations:
