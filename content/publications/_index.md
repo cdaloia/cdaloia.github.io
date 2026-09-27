@@ -9,7 +9,7 @@ banner:
   caption: ''
   image: ''
 ---
-**Primary Research Articles**
+**Articles**
 
 31\. Bushra F, Tiamzon Mj, Francis N, Patungan R, D'Aloia CC (in press) Shell morphological variation in the dogwhelk (*Nucella lapillus*) along the Bay of Fundy, New Brunswick, Canada. *Journal of Molluscan Studies*
 

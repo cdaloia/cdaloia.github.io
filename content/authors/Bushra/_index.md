@@ -45,10 +45,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
- # - icon: envelope
-  #  icon_pack: fas
-   # link: 'mailto:taylor.naaykens@utoronto.ca'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:fabiha.bushra@mail.utoronto.ca'
   #- icon: twitter
    # icon_pack: fab
     #link: https://x.com/Tnaaykens
@@ -73,4 +73,6 @@ user_groups:
   - Current Researchers
 ---
 
-Coming soon! Bushra previously held an NSERC USRA in our lab and completed a year long BIO481 research project. Her MSc work is supported by an NSERC CGS-M scholarship.
+Bushra is a MSc student at UofT researching little gobies that live in toxic sponges along the reefs of Curaçao. She previously quantified shell morphology and colour variation in Bay of Fundy dogwhelks as an undergrad thesis project, and has been fascinated by the ~ world of research ~ ever since. Her favourite part of molecular ecology research is the lab work, and she has spent multiple summers extracting DNA from fishes, sponges and worms. If she’s not working, she is playing football with her cat, Tara.
+She thinks the best part of being in the D’Aloia lab is that she can send 500 emojis to Cass and not get fired >:)
+Bushra's MSc work is supported by an NSERC CGS-M scholarship.

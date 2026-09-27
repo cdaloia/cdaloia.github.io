@@ -46,15 +46,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
- # - icon: envelope
- #   icon_pack: fas
-#    link: 'mailto:lwhite3@unb.ca'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:mai.bonomo@mail.utoronto.ca'
  # - icon: x
   #  icon_pack: fab
  #   link: https://x.com/LWhiteScience
-  #- icon: google-scholar
-   # icon_pack: ai
-    #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=pUoYCekAAAAJ&hl=en
   #- icon: github
    # icon_pack: fab
     #link: https://github.com/gcushen
@@ -72,4 +72,4 @@ email: ''
 user_groups:
   - Current Researchers
 ---
-Coming soon! Mai's research is supported by a prestigious Canada Impact+ Research Training Award and a Connaught International Scholarship.
+Mai’s PhD research investigates the symbiotic relationships, population genetics, and adaptations of Caribbean sponges. She is interested in understanding changes in these dynamics resulting from marine heatwaves. She conducted her undergraduate in Biology and MSc in Ecology in the Bronstein Lab at Tel Aviv University, where she investigated the ecology and taxonomy of sea cucumbers in the Red Sea, and developed a non-invasive underwater DNA sampling method. Outside of research, she loves obsessing about food - whether cooking it, eating it, or planning it. She is also an avid traveler, scuba diver, explorer, camper, reader, and amateur underwater photographer. Mai's research is supported by a prestigious Canada Impact+ Research Training Award and a Connaught International Scholarship.

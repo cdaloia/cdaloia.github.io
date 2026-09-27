@@ -52,9 +52,9 @@ social:
   - icon: x
     icon_pack: fab
     link: https://x.com/Tnaaykens
-  #- icon: google-scholar
-   # icon_pack: ai
-    #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=no8syLcAAAAJ&hl=en
   #- icon: github
    # icon_pack: fab
     #link: https://github.com/gcushen
